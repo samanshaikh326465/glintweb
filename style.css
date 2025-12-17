@@ -416,6 +416,51 @@ background-color: #39b54a;
     line-height: 2;
     color: #686868;
 }
+#footer{
+    background-color: #111111;
+    width: 100%;
+}
 .footbox{
+   text-align: center;
+    width: 70%;
     display: flex;
+    justify-content: space-evenly;
+    margin-left: 15%;
+    padding: 90px 0px;
+}
+.footbox1{
+    width: 45%;
+    text-align: justify;
+}
+.footbox1 h3{
+ color: #39b54a;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.footbox1 p{
+  color: grey;
+    line-height: 1.5;
+    margin-top: 11%;
+  
+}
+.footbox2{
+       width: 45%;
+    text-align: justify;
+
+}
+.footbox2 h3{
+ color: white;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+.footbox2 p{
+   text-align: justify;
+    color: grey;
+    line-height: 1.5;
+    
+    margin-top:15%;
+
+     /* padding-top: 150px; */
+   
 }
